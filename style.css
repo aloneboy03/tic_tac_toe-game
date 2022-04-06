@@ -25,10 +25,12 @@
 #restartBtn{
     width: 7rem;
     height: 2rem;
+    margin: 0 auto;
     cursor: pointer;
     font-family: "Permanent Marker", cursive;
     /* transform: translateX(10%); */
     background: linear-gradient(to right bottom, brown 20%, blue 60%, red);
     font-weight: 700;
+    font-size: 1.2rem;
 }
 
